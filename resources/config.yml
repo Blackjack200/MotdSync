@@ -1,0 +1,6 @@
+addr: "versai.pro"
+port: 19132
+# second
+period: 1
+# second
+timeout: 10

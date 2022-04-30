@@ -1,0 +1,12 @@
+{
+    "name": "misaka/motd-sync",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Misaka\\MotdSync\\": "src/"
+        }
+    },
+    "require": {
+        "pocketmine/raklib": "^0.14.4"
+    }
+}
