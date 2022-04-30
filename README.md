@@ -1,0 +1,2 @@
+# MotdSync
+Sync Server Motd
